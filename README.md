@@ -1,1 +1,3 @@
 # cryptocurrencies
+
+The purpose of this repository, challenge was to conduct an analysis of unsupervised machine learning of cryptocurrencies in order to make more informed business decisions related to popular coins and expected growth. Given the amount of data and velocity of new data related to cryptocurrencies we preprocessed the data for Principal Component Analysis (PCA). The goal of using PCA for this data was to reduce dimentionality and focusesing on key attributes. We then established clusters and used Sci-kit Lean K-Means to visualize our clusters and make better informed decisions around trading behavior of coins, in order to understand where the best market opportunity exists.
